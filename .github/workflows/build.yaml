@@ -1,4 +1,4 @@
-name: jax build
+name: Docker container builds
 
 on:
   push:

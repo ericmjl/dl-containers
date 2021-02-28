@@ -26,7 +26,7 @@ jobs:
         id: docker_build
         uses: docker/build-push-action@v2
         with:
-          context: jax/.
+          context: jax
           push: true
           tags: ericmjl/jax-container:latest
       -

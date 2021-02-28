@@ -1,0 +1,7 @@
+name: jax-container
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - jax
+  - jaxlib

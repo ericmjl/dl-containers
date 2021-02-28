@@ -1,0 +1,8 @@
+name: tensorflow-container
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - pip
+  - pip:
+    - tensorflow
